@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidTechnical</string>
+    <string name="company_name">Hosted by: EarthSavers Foundation</string>
+    <string name="event_name">Beach Cleanup Day</string>
+    <string name="about_event">About this event</string>
+    <string name="event_description">Join us for a day of community and environmental action at our Beach Clean Up Day organized by EarthSavers Foundation! This event is an opportunity to make a tangible difference in perserving our beautiful coastal ecosystems.</string>
+    <string name="amount_raised">$0 raised</string>
+    <string name="donation_history">Your Donation History</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Home</string>
+    <string name="menu_like">Home</string>
+    <string name="menu_profile">Home</string>
+    <string name="give_now">Give Now!</string>
+
+</resources>
